@@ -1,0 +1,15 @@
+{
+  "name": "sharedws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "lmnyx",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.18.1",
+    "fastify-static": "^4.2.2"
+  }
+}
